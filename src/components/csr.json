@@ -1,0 +1,77 @@
+{
+    "titleImage": [
+        {
+            "title": "Projects",
+            "url": "https://res.cloudinary.com/ddsus8zy7/image/upload/v1711851364/Vector_1_jztns3.png"
+        },
+        {
+            "title": "Why partner with us?",
+            "url": "https://res.cloudinary.com/ddsus8zy7/image/upload/v1711851364/Vector_1_jztns3.png"
+        },
+        {
+            "title": "United Nations SDG’s",
+            "url": "https://res.cloudinary.com/ddsus8zy7/image/upload/v1711851364/Vector_1_jztns3.png"
+        },
+        {
+            "title": "Past Partners Include",
+            "url": "https://res.cloudinary.com/ddsus8zy7/image/upload/v1711851364/Vector_1_jztns3.png"
+        },
+        {
+            "url": ""
+        }
+    ],
+
+    "imageCard":[
+        {
+            "url": "",
+            "description":""
+        },
+        {
+            "url": "https://res.cloudinary.com/ddsus8zy7/image/upload/v1711853881/image_39_oubq7y.png",
+            "description":"Ramya ramya ramya"
+        },
+        {
+            "url": "https://res.cloudinary.com/ddsus8zy7/image/upload/v1711853881/image_39_oubq7y.png",
+            "description":"https://res.cloudinary.com/ddsus8zy7/image/upload/v1711853881/image_39_oubq7y.png"
+        },
+        {
+            "url": "https://res.cloudinary.com/ddsus8zy7/image/upload/v1711853881/image_39_oubq7y.png",
+            "description":"Ramya ramya ramya"
+        },
+        {
+            "url": "https://res.cloudinary.com/ddsus8zy7/image/upload/v1711853881/image_39_oubq7y.png",
+            "description":"Ramya ramya ramya"
+        },
+        {
+            "url": "https://res.cloudinary.com/ddsus8zy7/image/upload/v1711853881/image_39_oubq7y.png",
+            "description":"Ramya ramya ramya"
+        },
+        {
+            "url": "https://res.cloudinary.com/ddsus8zy7/image/upload/v1711853881/image_39_oubq7y.png",
+            "description":"Ramya ramya ramya"
+        }
+    ],
+
+    "imageCardWithTitle":[
+        {
+            "url": "https://res.cloudinary.com/ddsus8zy7/image/upload/v1711880049/Mask_group_3_ojzjdu.png",
+            "title": "Impact at Grassroots",
+            "description":"Reaching people at the grassroots is a defining characteristic of all Isha projects. "
+        },
+        {
+            "url": "https://res.cloudinary.com/ddsus8zy7/image/upload/v1711879818/Mask_group_yd3za0.png",
+            "title": "Higher Social Returns",
+            "description":"Highly qualified volunteers run the projects with minimal overheads."
+        },
+        {
+            "url": "https://res.cloudinary.com/ddsus8zy7/image/upload/v1711879864/Mask_group_1_jxtkzc.png",
+            "title": "Sustainable and Innovative Solutions",
+            "description":"Isha's projects serve as sustainable blueprints for large-scale emulation."
+        },
+        {
+            "url": "https://res.cloudinary.com/ddsus8zy7/image/upload/v1711879896/Mask_group_2_qntvin.png",
+            "title": "Enhancing Brand Reputation",
+            "description":"Add credibility to your company’s social responsibility endeavors with Isha. "
+        }
+    ]
+}
